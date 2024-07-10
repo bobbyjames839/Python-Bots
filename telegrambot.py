@@ -4,7 +4,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 import re 
 
 
-TOKEN: Final = '6850222824:AAFdcopdWuSZpTgl65bUwDOTqtnO4MrIeek'
+TOKEN: Final = #this has been removed
 BOT_USERNAME: Final = '@bobbydavidsonBot'
 
 
